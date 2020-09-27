@@ -1,0 +1,14 @@
+{
+  "name": "tablas-multipicar-multiparametros",
+  "version": "1.0.0",
+  "description": "Aplicación de consola para tablas de multiplicar.",
+  "main": "escribirEnArchivo.js",
+  "scripts": {
+    "start": "node escribirEnArchivo.js listar -b 10 -l 10"
+  },
+  "author": "Adan Mota Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.0.3"
+  }
+}
