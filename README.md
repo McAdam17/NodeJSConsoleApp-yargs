@@ -1,7 +1,7 @@
 # NodeJSConsoleApp-yargs
 Aplicación de consola de tablas de multiplicar usando Node con Yargs
 
-Primero instalar el comando: 
+Primero instalar las dependencias con el comando: 
 ```
 npm install
 ```
